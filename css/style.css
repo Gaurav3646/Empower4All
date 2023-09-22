@@ -1371,6 +1371,9 @@ section {
     gap: 0;
     flex-flow: column;
   }
+  .header .flex .logo {
+    display: none;
+  }
 
   .home-grid .box-container {
     grid-template-columns: 1fr;
